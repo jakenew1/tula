@@ -19,6 +19,8 @@ section{
 	place-items: center;
 	align-content: center;
 	min-height: 100vh;
+	margin-left: 10px;
+ 	margin-right: 10px;
 }
 
 h1{
